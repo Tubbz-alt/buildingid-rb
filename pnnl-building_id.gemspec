@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.homepage    = "https://buildingid.pnnl.gov/"
   s.summary     = "Unique Building Identification (UBID) for Ruby"
   s.description = "Unique Building Identification (UBID) for Ruby"
-  s.license     = "BSD-3-Clause"
+  s.license     = "BSD-2-Clause"
 
   s.files = Dir["lib/**/*", "LICENSE", "Rakefile", "README.md"]
 
