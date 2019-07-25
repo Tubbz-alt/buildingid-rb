@@ -1,5 +1,10 @@
 # frozen_string_literal: true
 
+# Copyright (c) 2019, Battelle Memorial Institute
+# All rights reserved.
+#
+# See LICENSE.txt and WARRANTY.txt for details.
+
 require "plus_codes"
 require "plus_codes/code_area"
 require "plus_codes/open_location_code"

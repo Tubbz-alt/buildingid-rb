@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.description = "Unique Building Identification (UBID) for Ruby"
   s.license     = "BSD-2-Clause"
 
-  s.files = Dir["lib/**/*", "LICENSE", "Rakefile", "README.md"]
+  s.files = Dir["lib/**/*", "LICENSE.txt", "Rakefile", "README.md", "WARRANTY.txt"]
 
   s.add_dependency "plus_codes", "~> 0.2.1"
 end
